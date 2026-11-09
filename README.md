@@ -35,6 +35,12 @@ DIY vinyl record player
 - [ ]
 - [ ]
 
+## Parts to buy
+
+- [ ] Amplifier
+- [ ] Aluminum tube/rod
+- [ ] Rubber belt (flat, ~3mm wide)
+
 ## Speed detection
 
 We check the platter speed with a hall sensor. A small magnet is glued under the platter, and the sensor sits on the plinth below it. Every time the magnet passes, the sensor sends one pulse, so one pulse means one revolution. We measure the time between pulses to get the speed: 1.8 seconds per revolution at 33⅓ RPM, 1.33 seconds at 45 RPM.
